@@ -1,0 +1,15 @@
+span.at-email {
+    position: absolute;
+    top: 31px;
+    right: 30px;
+}
+
+.today-box {
+    background-color: #ffc8bc !important;
+}
+
+section.newcontent {
+    padding: 9px;
+    background-color: #dcdcdc;
+    margin: 20px;
+}
